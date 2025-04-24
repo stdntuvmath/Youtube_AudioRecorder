@@ -1,0 +1,1 @@
+I'm still working on this program to get it to be more automated. For example, I want this program to eventually record and stop recording without pushing a button and auto label the file based on the name of the song pulled from youtube.
